@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhiller30
-- 👀 I’m interested in full-stack development and software engineering in general
+- 👀 I’m interested in full-stack development and software engineering
 - 🌱 I’m currently learning computer science @ UC Davis
 - 📫 How to reach me using my email: akhil25adhu@gmail.com
 
