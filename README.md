@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akhiller30
+- 👋 Hi, I’m @akhil-arun
 - 👀 I’m interested in full-stack development and software engineering
 - 🌱 I’m currently learning computer science @ UC Davis
 - 📫 How to reach me using my email: akhil25adhu@gmail.com
